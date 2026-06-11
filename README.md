@@ -1,5 +1,7 @@
 # Was Arne Slot's Sacking Justified?
+
 ## Examining Liverpool's 2025/26 Collapse Through Historical Context
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/5d857060-c5b4-4a49-8d8f-8a4835cf3803" />
 
 ## Overview
 
@@ -47,6 +49,16 @@ The 2025/26 season is benchmarked against Liverpool's previous dip seasons to de
 ---
 
 ## Dataset
+
+1. Kaggle - https://www.kaggle.com/datasets/evangower/english-premier-league-standings (I manually updated the dataset with the 24/25 and 25/26 Epl table standings.
+2. Transfermarkt -
+
+20/21 - https://www.transfermarkt.com/liverpool-fc/ausfallzeiten/verein/31?reldata=GB1%262020
+
+22/23 - https://www.transfermarkt.com/fc-liverpool/ausfallzeiten/verein/31
+
+25/26 - https://www.transfermarkt.com/fc-liverpool/ausfallzeiten/verein/31
+
 
 The analysis combines:
 
@@ -121,9 +133,35 @@ The data allows readers to decide whether Liverpool's decline under Slot represe
 
 ## Visualizations
 
-- Liverpool's Point Tally Over Time
-- Were Injuries a Factor? Examining Liverpool's Three Dip Seasons
-- Total Days Injured Per Season
-- Total Number of Injured Players Per Season
-- Comparing Liverpool's 2025/26 Season to Previous Downturns
+- Liverpool's Incosistency Over The Years
+<img width="921" height="525" alt="Image" src="https://github.com/user-attachments/assets/feb51cd2-a5ac-4124-89ef-af68e045ef31" />
 
+---
+- Liverpool's League Position Over the Years
+<img width="921" height="525" alt="Image" src="https://github.com/user-attachments/assets/b7447d42-ec13-4824-bda4-b02ce1fc787e" />
+
+---
+- Identifying 3 Key Dip Seasons Over The Past 8 years
+<img width="921" height="525" alt="Image" src="https://github.com/user-attachments/assets/9d630de3-3506-4758-81c3-b0b9311743cb" />
+
+---
+- Total Days Injured Per Season
+<img width="921" height="525" alt="Image" src="https://github.com/user-attachments/assets/cffb88f9-8966-4167-8492-0ec829c6008f" />
+
+---
+- Total Number of Injured Players Per Season
+<img width="921" height="525" alt="Image" src="https://github.com/user-attachments/assets/06cfc0c2-b921-46dd-9ef5-75e229a773ec" />
+
+--- 
+## Author
+
+**Adedotun Ayodele**
+
+Data Analyst | Medical Doctor | Sports and Health Analyst
+
+Passionate about using data storytelling and analytics to uncover insights in sports, healthcare, and public policy.
+
+- LinkedIn: https://linkedin.com/in/aa-md
+- Substack: https://substack.com/home/post/p-201212500
+- Medium: https://medium.com/stats-vs-eye-test
+- Email: adedotunayodelemd@gmail.com
